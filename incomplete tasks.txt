@@ -1,0 +1,33 @@
+ PROJECTS
+
+cicd pipeline project
+aws dc and dr project
+full stack project
+bit bucket 
+aws code deploy------------------------------
+kubernetes project
+eks prject
+ 
+
+TERRAFORM CLASES 
+KUBERNETES CLASES
+
+
+KUBERNETES YAML FILE
+SHELL SCRIPTING
+DOCKER FILE 
+JENKINS FILE 
+TERRAFORM SCRIPT 
+ansible playbook
+
+
+GIT TASKS 
+KUBE TASKS
+DOCKER TASKS 
+JENKINS TASKS
+TERRAFORM TASKS 
+
+
+
+
+
